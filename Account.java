@@ -9,6 +9,7 @@ public class Account {
 		
 		methodOverloading obj = new methodOverloading ();
 		
+                obj.overlodading(34);
 		obj.overloading(24);
 		obj.overloding(2,24);
 	}
